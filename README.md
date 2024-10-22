@@ -1,4 +1,6 @@
-![Logo](https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif)
+<div style="text-align: center;">
+    <img src="https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif" alt="Logo" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
 
 # Ireng CV
 
