@@ -19,6 +19,7 @@ Proyek ini dirancang dengan tujuan mempermudah pengguna dalam mengelola dan mena
 $routeCore = new RouteCore();
 $routeCore->route("/", "ControllerAuth::login_view", ['GET']);
 $routeCore->handleRequest();
+```
 
 ## Instalasi
 
