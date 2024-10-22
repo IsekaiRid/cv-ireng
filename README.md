@@ -7,13 +7,12 @@ Ini adalah proyek **Ireng CV** yang menggunakan pendekatan OOP (Object-Oriented 
 
 ## Deskripsi
 
-Proyek ini dirancang dengan tujuan mempermudah pengguna dalam mengelola dan menampilkan informasi dalam format CV (Curriculum Vitae). Dengan pendekatan OOP, kami berusaha untuk memberikan struktur yang lebih sederhana dan mudah dipahami, tanpa adanya lapisan model yang bisa mempersulit pengalaman pengguna.
+Proyek ini dirancang dengan tujuan mempermudah pengguna dalam mengelola dan menampilkan informasi dalam format CV (Controller, View). Dengan pendekatan OOP, kami berusaha untuk memberikan struktur yang lebih sederhana dan mudah dipahami, tanpa adanya lapisan model yang bisa mempersulit pengalaman pengguna.
 
 ## Fitur Utama
 
 - Pengelolaan data CV yang mudah
-- Tampilan yang responsif dan user-friendly
-- Kemampuan untuk menyesuaikan dan memperbarui informasi dengan cepat
+- open community
 
 ## Instalasi
 
