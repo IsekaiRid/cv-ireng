@@ -14,6 +14,12 @@ Proyek ini dirancang dengan tujuan mempermudah pengguna dalam mengelola dan mena
 - Pengelolaan data CV yang mudah
 - open community
 
+## Controller Costume
+```code
+$routeCore = new RouteCore();
+$routeCore->route("/", "ControllerAuth::login_view", ['GET']);
+$routeCore->handleRequest();
+
 ## Instalasi
 
 1. **Clone repositori ini:**
