@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif" alt="Logo" style="border-radius: 100%; width: 250px; height: 250px;">
+    <img src="https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif" alt="Logo" style="border-radius: 100%; width: 350px; height: 350px;">
 </div>
 
 # Ireng CV
