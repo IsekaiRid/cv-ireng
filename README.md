@@ -1,3 +1,5 @@
+![Logo](https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif)
+
 # Ireng CV
 
 Ini adalah proyek **Ireng CV** yang menggunakan pendekatan OOP (Object-Oriented Programming) tanpa mengimplementasikan pola desain MVC (Model-View-Controller). Dalam sistem ini, hanya ada dua komponen utama:
