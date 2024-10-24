@@ -1,4 +1,4 @@
-<center> <img src="https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif" alt="Logo" style="border-radius: 100%; width: 350px; height: 350px;"> </center>
+<center> <img src="https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif" alt="Logo" style="border-radius: 100%; width: 350px; height: 350px;"> 
 
 # Ireng CV
 
@@ -28,3 +28,5 @@ $routeCore->handleRequest();
 1. **Clone repositori ini:**
    ```bash
    git clone https://github.com/username/ireng-cv.git
+
+</center>
