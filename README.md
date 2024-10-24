@@ -1,4 +1,4 @@
-<p align="center"><center> <img src="https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif" alt="Logo" style="border-radius: 100%; width: 350px; height: 350px;"> </p>
+<p align="center"><<img src="https://i.pinimg.com/originals/23/67/76/2367767820aa5b14f2ef90701f325ee8.gif" alt="Logo" style="border-radius: 100%; width: 350px; height: 350px;"></p>
 
 # Ireng CV
 
