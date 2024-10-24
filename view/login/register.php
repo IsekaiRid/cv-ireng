@@ -1,5 +1,29 @@
 <?php
-require_once("../view/login/layout/header.php")
+
+require_once("../view/login/layout/header.php");
+if (isset($_SESSION['alert'])) {
+    $alert = $_SESSION['alert'];
+?>
+    <script src="assets/js/plugin/sweetalert/sweetalert.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            if (typeof swal !== 'undefined') {
+                swal({
+                    title: "<?php echo $alert['title']; ?>",
+                    text: "<?php echo $alert['message']; ?>",
+                    icon: "<?php echo $alert['icon']; ?>",
+                    buttons: {
+                        confirm: {
+                            className: 'btn btn-<?php echo $alert['icon']; ?>'
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+<?php
+    unset($_SESSION['alert']); // Hapus alert setelah ditampilkan
+}
 ?>
 
 <body style="background-image:url('https://i.pinimg.com/originals/a6/e2/3b/a6e23bc8c9c862538a7f31dc2f651d98.gif'); background-size: cover; background-repeat: no-repeat;background-position: center;">
@@ -12,7 +36,7 @@ require_once("../view/login/layout/header.php")
                             <img src="icon.svg" alt="Brand Logo" class="brand-logo mb-3" style="max-width: 100px; height: auto;">
                             <h1 class="text-light shadow-lg" style="font-family: 'Chakra Petch', sans-serif;">Join Komukasi Global</h1>
                         </div>
-                        <form  method="POST" action="/prosesRegister">
+                        <form method="POST" action="/prosesRegister">
                             <div class="form-group">
                                 <label for="username" class="fw-bold text-light">Username</label>
                                 <input type="text" class="form-control" id="username" name="name" placeholder="Enter username" style="background-color: #f0f8ff;">
